@@ -66,11 +66,10 @@ body {
 }
 .gallery li {
   width: calc((100% - 24px * 2) / 3);
-  box-sizing: border-box;
 }
 .gallery img {
   width: 100%;
-  height: auto;
+  height: 303.99px;
   display: block;
   background-size: cover;
 }
